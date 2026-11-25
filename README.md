@@ -14,7 +14,7 @@ terraform init
 terraform validate
 terraform plan
 terraform apply
-
-## Output
-public_ip = "18.209.34.229"
-webpage_url = "http://18.209.34.229"
+```
+## Example Output
+`public_ip = "18.209.34.229"`
+`webpage_url = "http://18.209.34.229"`
